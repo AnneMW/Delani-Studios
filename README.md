@@ -1,5 +1,5 @@
 # Triangle-tracker
-This is a webpage for Delani Studios that shows th services offered.
+This is a webpage for Delani Studios that shows the services offered.
 ## Installation
 Web browser.
 Internet.
