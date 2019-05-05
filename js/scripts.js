@@ -13,3 +13,6 @@ $(document).ready(function(){
     $(".show3").toggle();
   });
 });
+$(document).ready(function(){
+  $('[data-toggle="tooltip"]').tooltip();
+});
