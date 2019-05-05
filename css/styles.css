@@ -45,3 +45,26 @@ header{
   background-size: cover;
   padding: 50px;
 }
+.contact-form form{
+  width: 700px;
+  max-width: 100%;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%);
+}
+input{
+  background: transparent;
+  color: white;
+}
+textarea{
+  background: transparent;
+  width: 100%;
+  color: white;
+}
+.contact{
+  text-align: center;
+  color: white;
+}
+label{
+  color: white;
+}
