@@ -28,6 +28,15 @@ header{
 .row{
   text-align: center;
 }
+.show{
+  display: none;
+}
+.show2{
+  display: none;
+}
+.show3{
+  display: none;
+}
 .portfolio{
   text-align: center;
 }
