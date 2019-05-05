@@ -11,3 +11,11 @@ header{
 .head{
   padding: 150px;
 }
+.services{
+  background-image: url(assets/s_image.jpg);
+  background-size: cover;
+  width: 100%;
+  color: white;
+  text-align: center;
+  padding: 50px;
+}
