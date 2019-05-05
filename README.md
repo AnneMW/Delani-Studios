@@ -22,7 +22,7 @@ Pull requests are welcome.
 Name: Anne M
 Contact: annesnowwoods@gmail.com
 ## Project Status
-Still a work-in-progress.
-Hope to improve most features soon enough.
+* Still a work-in-progress.
+* Hope to improve most features soon enough.
 ## License
-file:///home/anne/Documents/Moringa-school-projects/delani-studios/LICENSE.txt
+https://github.com/AnneMW/Delani-Studios/blob/master/LICENSE.txt
