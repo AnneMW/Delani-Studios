@@ -1,0 +1,13 @@
+body{
+  background-color: grey;
+}
+header{
+  background-image: url(assets/h_img.jpg);
+  background-size: cover;
+  width: 100%;
+  text-align: center;
+  color: white;
+}
+.head{
+  padding: 150px;
+}
