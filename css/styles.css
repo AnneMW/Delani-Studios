@@ -31,3 +31,8 @@ header{
 .portfolio{
   text-align: center;
 }
+.contact-form{
+  background-image: url(assets/c_image.jpg);
+  background-size: cover;
+  padding: 50px;
+}
