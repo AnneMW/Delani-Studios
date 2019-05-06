@@ -1,20 +1,24 @@
-body{
+body {
   background-color: grey;
 }
-header{
+
+header {
   background-image: url(assets/h_img.jpg);
   background-size: cover;
   width: 100%;
   text-align: center;
   color: white;
 }
-.head{
+
+.head {
   padding: 150px;
 }
-.about{
+
+.about {
   text-align: center;
 }
-.services{
+
+.services {
   background-image: url(assets/s_image.jpg);
   background-size: cover;
   width: 100%;
@@ -24,53 +28,47 @@ header{
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 20px;
 }
-.do{
+
+.do {
   text-align: center;
   font-family: 'Montserrat', sans-serif;
 }
-.row{
+
+.row {
   text-align: center;
 }
-.show{
+
+.show {
   display: none;
 }
-.show2{
+
+.show2 {
   display: none;
 }
-.show3{
+
+.show3 {
   display: none;
 }
-.portfolio{
+
+.portfolio {
   text-align: center;
 }
-.contact-form{
+
+.contact-form {
   background-image: url(assets/c_image.jpg);
   background-size: cover;
   padding: 50px;
 }
-.contact-form form{
+
+.contact-form form {
   width: 700px;
   max-width: 100%;
   position: relative;
   left: 50%;
   transform: translate(-50%);
 }
-input{
+
+input {
   background: transparent;
   color: white;
-}
-textarea{
-  background: transparent;
-  width: 100%;
-  color: white;
-}
-.contact{
-  text-align: center;
-  color: white;
-}
-label{
-  color: white;
-}
-footer{
-  text-align: center;
 }
