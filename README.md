@@ -9,7 +9,7 @@ or view the live site here: https://annemw.github.io/Delani-Studios/
 ## Usage
 The webpage is aimed at providing the basic information about Delani Studios.
 ## Bugs
-None so far.
+mailchimp code does not work.
 ## Technology Used
 * HTML
 * CSS
