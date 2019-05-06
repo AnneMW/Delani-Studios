@@ -16,3 +16,6 @@ $(document).ready(function(){
 $(document).ready(function(){
   $('[data-toggle="tooltip"]').tooltip();
 });
+function myFunction() {
+  alert("We have received your message. Thank you for contacting us.");
+}
