@@ -72,3 +72,14 @@ input {
   background: transparent;
   color: white;
 }
+
+button {
+  background: transparent;
+  color: white;
+}
+
+textarea{
+  background: transparent;
+  width: 100%;
+  color: white;
+}
